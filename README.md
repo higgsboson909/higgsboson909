@@ -1,6 +1,6 @@
-<p>Currently in my <strong>6th</strong> semester of <strong>Computer Science</strong> at <strong>Lahore Garrison University</strong><br>
-I'm currently learning <strong>Backend</strong> and focusing on improving my problem-solving.<br>
-🐧 Proudly use <strong>Linux Mint</strong> as a daily driver | Love the terminal.</p>          
+<p><strong>CS Junior</strong><br>
+Learning <strong>Backend</strong> and improving my problem-solving.<br>
+Use <strong>Linux Mint</strong> as a daily driver | Love the terminal.</p>          
 <!--                                                                                                                        
 <p>Interested in <strong>Security & </strong> <br> Automation enthusiast on a mission to innovate! 🚀 Passionate about turning manual tasks into automated brilliance.</p>                                                                                                                                                                                                                                                                                                                                -->
 
