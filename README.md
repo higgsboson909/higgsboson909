@@ -1,4 +1,4 @@
-                                                                                                                                                                           Currently in my <strong>6th</strong> semester of <strong>Computer Science</strong> at <strong>Lahore Garrison University</strong>
+Currently in my <strong>6th</strong> semester of <strong>Computer Science</strong> at <strong>Lahore Garrison University</strong>
 <p>I'm currently learning <strong>Backend</strong> and focusing on improving my problem-solving.</p>
 <p>🐧 Proudly use <strong>Linux Mint</strong> as a daily driver | Love the terminal.</p>          
 <!--                                                                                                                        
