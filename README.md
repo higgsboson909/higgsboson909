@@ -1,4 +1,4 @@
-<p><strong>CS Junior</strong><br>
+<p><strong>CS Senior</strong><br>
 Learning <strong>Backend</strong> and improving my problem-solving.<br>
 Shifted to <strong>Omakub</strong> | Love the terminal.</p>
 
