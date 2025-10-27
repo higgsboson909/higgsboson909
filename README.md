@@ -1,6 +1,6 @@
 <p><strong>CS Senior</strong><br>
 Learning <strong>Backend</strong> and improving my problem-solving.<br>
-Shifted to <strong>Omakub</strong> | Love the terminal.</p>
+Use <strong>Arch</strong>, technically | Love the terminal.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
