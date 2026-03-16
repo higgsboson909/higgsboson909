@@ -5,7 +5,7 @@ Use <strong>Arch</strong>, technically | Love the terminal.</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,html,css,js,python,github,git,vscode,neovim,react,tailwind,mongodb,express,numpy" height=36/>
+    <img src="https://skillicons.dev/icons?i=linux,html,css,js,python,github,git,vscode,neovim,react,tailwind,mongodb,express" height=36/>
   </a>
 </p>
 
